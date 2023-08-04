@@ -1,0 +1,15 @@
+{
+  "name": "gird-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "scss": "sass --watch scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
